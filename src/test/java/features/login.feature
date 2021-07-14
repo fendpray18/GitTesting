@@ -2,14 +2,14 @@ Feature: Login into Application
 
 Scenario: Positive test validating login
 Given Initialize the browser with Chrome
-And Navigate to "https://adirauat2012.autocillin.co.id:8033/Travellin" site
+And Navigate to "https://adirauat2012.autocillin.co.id:08/Travelcin" site
 And Click on login link as Direct to icon Login
-When user enters "prayogifendy@gmail.com" and "iBIggGGB"
+When user enters "pfendy@gmail.com" and "iNah90L"
 Then verify that user is successfully logged in knowing the icon Profile
 
 Scenario: Positive test validating login
 Given Initialize the browser with Chrome
-And Navigate to "https://adirauat2012.autocillin.co.id:8033/Travellin" site
+And Navigate to "https://google.com" site
 And Click on login link as Direct to icon Login
-When user enters "prayogifendy@gmail.com" and "iBIggGGB"
+When user enters "fendyp@gmail.com" and "iMalO98"
 Then verify that user is successfully logged in knowing the icon Profile
